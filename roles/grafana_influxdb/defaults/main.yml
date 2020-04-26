@@ -1,0 +1,8 @@
+---
+# defaults file for grafana_influxdb
+grafana_admin: "admin"
+grafana_password: "admin"
+
+influx_admin: "admin"
+influx_password: "admin"
+
