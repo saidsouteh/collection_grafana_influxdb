@@ -1,3 +1,6 @@
-# Ansible Collection - ssouteh.grafan_influxdb
+# Description
+Cette collection contient un seul role permettant l'installation des containers grafana & influx db utilisant docker-compose
 
-Documentation for the collection.
+# Pré-requis 
+Docker daemon
+
