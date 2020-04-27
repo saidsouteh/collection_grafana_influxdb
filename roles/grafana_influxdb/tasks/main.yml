@@ -1,5 +1,9 @@
 ---
 # tasks file for grafana
+- name: set ansible interpreter to python2
+  set_fact:
+    ansible_python_interpreter: /usr/bin/python2
+
 - name: Upgrade pip
   pip:
     name: pip
